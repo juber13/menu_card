@@ -1,6 +1,6 @@
 const menu = [
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "World Art Dining - Cook house",
     img : "./images/tim-chow-MhpxHv0FKtE-unsplash.jpg",
     food_types: ["North Indian", "Chinese", "Italian", "Desserts", "Beverages"],
@@ -10,7 +10,7 @@ const menu = [
     price_for_two: 1000
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "Maestro A Restro Cafe",
     img : "./images/shanice-garcia-TO69trRWlrI-unsplash.jpg",
     food_types: ["North Indian", "Chinese", "Beverages"],
@@ -20,7 +20,7 @@ const menu = [
     price_for_two: 1200
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "Cocoberry",
     img : "./images/ralph-ravi-kayden-J5eOPeFqcuY-unsplash.jpg",
     food_types: ["Desserts"],
@@ -30,7 +30,7 @@ const menu = [
     price_for_two: 200
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "Haiyan",
     img : "./images/premium_photo-1669557208969-737d6ab1c9fd.jpg",
     food_types: ["North Indian", "Chinese"],
@@ -40,7 +40,7 @@ const menu = [
     price_for_two: 400
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "Lotus Leaf",
     img : "./images/pixzolo-photography-ZB8NK8cB4EE-unsplash.jpg",
     food_types: ["North Indian", "Chinese", "Desserts"],
@@ -50,7 +50,7 @@ const menu = [
     price_for_two: 700
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "The Big Bun",
     img : "./images/mariana-medvedeva-fk6IiypMWss-unsplash.jpg",
     food_types: ["Fast Food"],
@@ -60,7 +60,7 @@ const menu = [
     price_for_two: 300
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "Moti Mahal Delux",
     img : "./images/louis-hansel-mVZ_gjm_TOk-unsplash.jpg",
     food_types: [
@@ -76,7 +76,7 @@ const menu = [
     price_for_two: 1100
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "Hot Spot Mini Shop",
     img : "./images/lacey-williams-V9LP6-y8e5w-unsplash.jpg",
     food_types: [
@@ -94,7 +94,7 @@ const menu = [
     price_for_two: 1300
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "KAKE DA HOTEL",
     img : "./images/brandy-s-mENa6dWQIKo-unsplash.jpg",
     food_types: ["North Indian", "Desserts", "Beverages"],
@@ -104,7 +104,7 @@ const menu = [
     price_for_two: 350
   },
   {
-    category: "brekfast",
+    category: "Breakfast",
     name: "Creme N Crisp",
     img : "https://unsplash.com/photos/pqZbNwCJ-dA",
     food_types: ["Bakery"],
@@ -115,7 +115,7 @@ const menu = [
   },
   
   {
-    category: "lunch",
+    category: "Lunch",
     name: "Hot Spot Mini Shop",
     img : "./images/emile-mbunzama-x4Rh_hHK3Ao-unsplash.jpg",
     food_types: [
@@ -133,7 +133,7 @@ const menu = [
     price_for_two: 1300
   },
   {
-    category: "lunch",
+    category: "Lunch",
     name: "Maestro A Restro Cafe",
     img : "./images/elena-leya-KPDh-ELUHDw-unsplash.jpg",
     food_types: ["North Indian", "Chinese", "Beverages"],
@@ -143,7 +143,7 @@ const menu = [
     price_for_two: 1200
   },
   {
-    category: "lunch",
+    category: "Lunch",
     name: "Cocoberry",
     img: "./images/elena-leya-CNk74-V1BG8-unsplash.jpg",
     food_types: ["Desserts"],
@@ -153,7 +153,7 @@ const menu = [
     price_for_two: 200
   },
   {
-    category: "lunch",
+    category: "Lunch",
     name: "World Art Dining - Cook house",
     img : "./images/eaters-collective-Gg5-K-mJwuQ-unsplash.jpg",
     food_types: ["North Indian", "Chinese", "Italian", "Desserts", "Beverages"],
@@ -163,7 +163,7 @@ const menu = [
     price_for_two: 1000
   },
   {
-    category: "lunch",
+    category: "Lunch",
     name: "Haiyan",
     img : "./images/eaters-collective-Gg5-K-mJwuQ-unsplash.jpg",
     food_types: ["North Indian", "Chinese"],
@@ -173,7 +173,7 @@ const menu = [
     price_for_two: 400
   },
   {
-    category: "lunch",
+    category: "Lunch",
     name: "KAKE DA HOTEL",
     img : "./images/brooke-lark-R18ecx07b3c-unsplash.jpg",
     food_types: ["North Indian", "Desserts", "Beverages"],
@@ -183,7 +183,7 @@ const menu = [
     price_for_two: 350
   },
   {
-    category: "dinner",
+    category: "Dinner",
     img : "./images/ferks-guare-zxPLJJz2o_c-unsplash.jpg",
     name: "Hot Spot Mini Shop",
     food_types: [
@@ -201,7 +201,7 @@ const menu = [
     price_for_two: 1300
   },
   {
-    category: "dinner",
+    category: "Dinner",
     name: "Maestro A Restro Cafe",
     img : "./images/brooke-lark-R18ecx07b3c-unsplash.jpg",
     food_types: ["North Indian", "Chinese", "Beverages"],
@@ -211,7 +211,7 @@ const menu = [
     price_for_two: 1200
   },
   {
-    category: "dinner",
+    category: "Dinner",
     name: "Cocoberry",
     img : "./images/dinner_4.jpg",
     food_types: ["Desserts"],
@@ -221,7 +221,7 @@ const menu = [
     price_for_two: 200
   },
   {
-    category: "dinner",
+    category: "Dinner",
     name: "KAKE DA HOTEL",
     img : "./images/dinner_3.jpg",
     food_types: ["North Indian", "Desserts", "Beverages"],
@@ -231,7 +231,7 @@ const menu = [
     price_for_two: 350
   },
   {
-    category: "dinner",
+    category: "Dinner",
     name: "Maestro A Restro Cafe",
     img : "./images/dinner_1.jpg",
     food_types: ["North Indian", "Chinese", "Beverages"],
@@ -241,7 +241,7 @@ const menu = [
     price_for_two: 1200
   },
   {
-    category: "dinner",
+    category: "Dinner",
     name: "Lotus Leaf",
     img : "./images/dinner_2.jpg",
     food_types: ["North Indian", "Chinese", "Desserts"],
@@ -253,28 +253,46 @@ const menu = [
 ];
 
 
-
-let filterBtns = document.querySelectorAll('.btn');
-filterBtns.forEach(function(btn){
-  btn.addEventListener("click", function(e){
-     let category = e.target.dataset.id;
-     let categories = menu.filter(item => {
-      return item.category == category;
-     })
-
-     if(category == 'all'){
-      displayMenuItems(menu);
-     }else{
-      displayMenuItems(categories);
-     }
-  })
-})
-
-
+const container = document.querySelector('.filter-btn-container')
 const menuContainer = document.querySelector('.card-grid')
+// console.log(filterBtnContainer)
+
 window.addEventListener('DOMContentLoaded',function(){
   displayMenuItems(menu);
-})
+  displayMenuBtns(menu)
+})  
+
+function displayMenuBtns(menu){
+  
+  
+  let categories = menu.reduce(function(value , arr){
+    if(!value.includes(arr.category)){
+      value.push(arr.category);
+    }
+    return value;
+  },['All']);
+  
+  const btns = categories.map(function(category){
+    return `<button class="btn" data-id=${category} >${category}</button>`;
+  }).join("");
+    
+    container.innerHTML = btns;
+    let filterBtns = container.querySelectorAll('.btn'); 
+    filterBtns.forEach(function(btn){
+      btn.addEventListener("click", function(e){
+        let category = e.target.dataset.id;
+      let categories = menu.filter(item => {
+        return item.category == category;
+      })
+
+      if(category == 'All'){ 
+        displayMenuItems(menu);
+      }else{
+        displayMenuItems(categories);
+      }
+    })
+    })
+}
 
 
 function displayMenuItems(menuItem){

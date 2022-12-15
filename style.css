@@ -57,10 +57,11 @@ html,body{
   padding-top:0;
 }
 
-.card-footer.btn{
+.card-footer .btn{
   --color : hsl(200 , 50% , 50%);
   padding:.5em;
-  border:none;
+  --color : hsl(200 , 50% , 50%);
+  border: 2px solid var(--color);
   font-size:1.2em;
   background: var(--color);
   color:#fff;
@@ -68,7 +69,7 @@ html,body{
   cursor:pointer;
 }
 
-.btn:hover{
+.card-footer .btn:hover{
   background:hsl(200 , 50% , 60%);
 }
 
